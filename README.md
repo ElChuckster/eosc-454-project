@@ -1,4 +1,4 @@
-# eosc-454-project
+# My Inversion Project
 
 Authors: Lindsey Heagy
 
